@@ -1,0 +1,6 @@
+Makefile
+README.md
+docker-compose.yaml
+.venv
+venv
+Dockerfile
