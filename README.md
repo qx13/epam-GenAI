@@ -1,6 +1,7 @@
 # epam-GenAI
 
 ### Jupyter Notebook
+with a description of all the steps
 **src/research.ipynb**
 
 ## solution server
@@ -15,8 +16,8 @@ MAX_COUNT = 15
 run server 
 
 ```sh
-docker build -t epam .
-docker run --name epam-con -d -p 8501:8501 epam
+docker build -t genai .
+docker run --name genai-con -d -p 8501:8501 genai
 
 ```
 ### link http://0.0.0.0:8501/playground/
