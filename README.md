@@ -7,7 +7,7 @@ with a description of all the steps
 ## solution server
 ### CONFIG 
 
-.env file
+create a file **.env** with the following parameters in the project folder
 ```
 HUGGINGFACEHUB_API_TOKEN = hf_********
 LINK_SITE = https://www.bbc.com/
