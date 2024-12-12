@@ -13,6 +13,11 @@ HUGGINGFACEHUB_API_TOKEN = hf_********
 LINK_SITE = https://www.bbc.com/
 MAX_COUNT = 15
 ```
+
+* HUGGINGFACEHUB_API_TOKEN - api key from HUGGINGFACE
+* LINK_SITE - processing site
+* MAX_COUNT  - The number of news items to be processed
+
 run server 
 
 ```sh
